@@ -1,6 +1,6 @@
-# gmailui
+# gmail_ui
 
-Interface of gmail
+A new Flutter application.
 
 ## Getting Started
 
